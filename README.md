@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8" />
 	<link rel="LinoLana" href="css/LinoLana.css">
-	<meta name="google-site-verification" content="KnwuWUSY1V5l619Dt2K3NMt77iZhYqHoDVcG6IOtwvY" />
+	<meta name="google-site-verification" content="5TgQWfQpOKbte-rxvsJBnC6pryGQWToP8vqsGCdM7Wg" />
 
 </head>
 
