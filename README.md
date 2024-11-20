@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<meta name="google-site-verification" content="5TgQWfQpOKbte-rxvsJBnC6pryGQWToP8vqsGCdM7Wg" />
+	<meta charset="utf-8" />
 	<link rel="LinoLana" href="css/LinoLana.css">
 </head>
 
