@@ -19,7 +19,6 @@
 	<img src="menu.jpg" width=1000 height=2000 alt="パンダ"><img src="explanation.jpg" width=1000 height=2000 alt="サイ">
 	</p></div></div><p>&nbsp;</p></div>
 	<div class="box">
-	<h2>実験</h2>
     </div>
 
 </body>
